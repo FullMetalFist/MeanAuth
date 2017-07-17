@@ -14,6 +14,23 @@ Clone into your directory, type
 then type
 `node app.js`
 
+Check status in MongoDB
+
+```terminal
+> show dbs
+meanauth    0.000GB
+
+> use meanauth
+switched to db meanauth
+
+> show collections
+users
+
+> db.users.find()
+{ "_id" : ObjectId("596ba1d345fbc0bf8ae85001"), "name" : "JohnJohn", "email" : "dude@g.net", "username" : "Dude", "password" : "$2a$10$Qmm.l007BDoIio1t079AY.Y6RPFfTJsNXMlk83u3Pv/0SF7QKOfky", "__v" : 0 }
+{ "_id" : ObjectId("596ba201d6d733bf92bdd5a0"), "name" : "EasyE", "email" : "Eaze@g.net", "username" : "EDude", "password" : "$2a$10$CbMT9t5Ak/8v7IdIzJNhZ.bZeb2t160CV/ACw.0eq5lTJYEVyjYUi", "__v" : 0 }
+```
+
 
 ## API Reference
 
@@ -33,7 +50,7 @@ Following Traversy Media for this project
 
 - [x] [MEAN Stack Front To Back [Part 1] - Project Introduction](https://youtu.be/uONz0lEWft0)
 - [x] [MEAN Stack Front To Back [Part 2] - Express Setup & Routes](https://www.youtube.com/watch?v=DQ9pZ2NKXRo)
-- [ ] [MEAN Stack Front To Back [Part 3] - User Model & Register](https://youtu.be/1ZeDy2QI3OE)
+- [x] [MEAN Stack Front To Back [Part 3] - User Model & Register](https://youtu.be/1ZeDy2QI3OE)
 - [ ] [MEAN Stack Front To Back [Part 4] - API Authentication and Token](https://youtu.be/6pdFXmTfkeE)
 - [ ] [MEAN Stack Front To Back [Part 5] - Angular 2 Components & Routes](https://youtu.be/zrViDpWiNVE)
 - [ ] [MEAN Stack Front To Back [Part 6] - Register Component, Validation & Flash Messages](https://youtu.be/bxZAPoeMr7U)
