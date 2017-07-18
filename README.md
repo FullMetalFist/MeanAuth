@@ -34,14 +34,11 @@ users
 
 ## API Reference
 
-`localhost:3000/register`
+POST `localhost:3000/register`
 
-`localhost:3000/authenticate`
+POST `localhost:3000/authenticate`
 
-`localhost:3000/profile`
-
-`localhost:3000/validate`
-
+GET `localhost:3000/profile`
 
 
 ## Lectures
@@ -52,7 +49,7 @@ Following Traversy Media for this project
 - [x] [MEAN Stack Front To Back [Part 2] - Express Setup & Routes](https://www.youtube.com/watch?v=DQ9pZ2NKXRo)
 - [x] [MEAN Stack Front To Back [Part 3] - User Model & Register](https://youtu.be/1ZeDy2QI3OE)
 - [x] [MEAN Stack Front To Back [Part 4] - API Authentication and Token](https://youtu.be/6pdFXmTfkeE)
-- [ ] [MEAN Stack Front To Back [Part 5] - Angular 2 Components & Routes](https://youtu.be/zrViDpWiNVE)
+- [x] [MEAN Stack Front To Back [Part 5] - Angular 2 Components & Routes](https://youtu.be/zrViDpWiNVE)
 - [ ] [MEAN Stack Front To Back [Part 6] - Register Component, Validation & Flash Messages](https://youtu.be/bxZAPoeMr7U)
 - [ ] [MEAN Stack Front To Back [Part 7] - Auth Service & User Registration](https://youtu.be/dFftMN32jyQ)
 - [ ] [MEAN Stack Front To Back [Part 8] - Login & Logout](https://youtu.be/rt6VSxXL4_w)
