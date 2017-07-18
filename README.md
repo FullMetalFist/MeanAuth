@@ -51,7 +51,7 @@ Following Traversy Media for this project
 - [x] [MEAN Stack Front To Back [Part 1] - Project Introduction](https://youtu.be/uONz0lEWft0)
 - [x] [MEAN Stack Front To Back [Part 2] - Express Setup & Routes](https://www.youtube.com/watch?v=DQ9pZ2NKXRo)
 - [x] [MEAN Stack Front To Back [Part 3] - User Model & Register](https://youtu.be/1ZeDy2QI3OE)
-- [ ] [MEAN Stack Front To Back [Part 4] - API Authentication and Token](https://youtu.be/6pdFXmTfkeE)
+- [x] [MEAN Stack Front To Back [Part 4] - API Authentication and Token](https://youtu.be/6pdFXmTfkeE)
 - [ ] [MEAN Stack Front To Back [Part 5] - Angular 2 Components & Routes](https://youtu.be/zrViDpWiNVE)
 - [ ] [MEAN Stack Front To Back [Part 6] - Register Component, Validation & Flash Messages](https://youtu.be/bxZAPoeMr7U)
 - [ ] [MEAN Stack Front To Back [Part 7] - Auth Service & User Registration](https://youtu.be/dFftMN32jyQ)
