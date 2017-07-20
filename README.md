@@ -29,6 +29,7 @@ users
 > db.users.find()
 { "_id" : ObjectId("596ba1d345fbc0bf8ae85001"), "name" : "JohnJohn", "email" : "dude@g.net", "username" : "Dude", "password" : "$2a$10$Qmm.l007BDoIio1t079AY.Y6RPFfTJsNXMlk83u3Pv/0SF7QKOfky", "__v" : 0 }
 { "_id" : ObjectId("596ba201d6d733bf92bdd5a0"), "name" : "EasyE", "email" : "Eaze@g.net", "username" : "EDude", "password" : "$2a$10$CbMT9t5Ak/8v7IdIzJNhZ.bZeb2t160CV/ACw.0eq5lTJYEVyjYUi", "__v" : 0 }
+{ "_id" : ObjectId("5970c7758965d9674f8c4b3e"), "name" : "Mister Browski", "email" : "Browski@g.net", "username" : "misterBee", "password" : "$2a$10$qeiaDLdA1IZNdMrkTJkxx.cf6daYAaVtM5EYaQbtB9FdYiZpPdoCq", "__v" : 0 }
 ```
 
 
@@ -51,7 +52,7 @@ Following Traversy Media for this project
 - [x] [MEAN Stack Front To Back [Part 4] - API Authentication and Token](https://youtu.be/6pdFXmTfkeE)
 - [x] [MEAN Stack Front To Back [Part 5] - Angular 2 Components & Routes](https://youtu.be/zrViDpWiNVE)
 - [x] [MEAN Stack Front To Back [Part 6] - Register Component, Validation & Flash Messages](https://youtu.be/bxZAPoeMr7U)
-- [ ] [MEAN Stack Front To Back [Part 7] - Auth Service & User Registration](https://youtu.be/dFftMN32jyQ)
+- [x] [MEAN Stack Front To Back [Part 7] - Auth Service & User Registration](https://youtu.be/dFftMN32jyQ)
 - [ ] [MEAN Stack Front To Back [Part 8] - Login & Logout](https://youtu.be/rt6VSxXL4_w)
 - [ ] [MEAN Stack Front To Back [Part 9] - Protected Requests & Auth Guard](https://youtu.be/OILrJmjkId4)
 - [ ] [MEAN Stack Front To Back [Part 10] - App Deployment to Heroku](https://youtu.be/cBfcbb07Tqk)
