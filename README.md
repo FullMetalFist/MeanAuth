@@ -50,7 +50,7 @@ Following Traversy Media for this project
 - [x] [MEAN Stack Front To Back [Part 3] - User Model & Register](https://youtu.be/1ZeDy2QI3OE)
 - [x] [MEAN Stack Front To Back [Part 4] - API Authentication and Token](https://youtu.be/6pdFXmTfkeE)
 - [x] [MEAN Stack Front To Back [Part 5] - Angular 2 Components & Routes](https://youtu.be/zrViDpWiNVE)
-- [ ] [MEAN Stack Front To Back [Part 6] - Register Component, Validation & Flash Messages](https://youtu.be/bxZAPoeMr7U)
+- [x] [MEAN Stack Front To Back [Part 6] - Register Component, Validation & Flash Messages](https://youtu.be/bxZAPoeMr7U)
 - [ ] [MEAN Stack Front To Back [Part 7] - Auth Service & User Registration](https://youtu.be/dFftMN32jyQ)
 - [ ] [MEAN Stack Front To Back [Part 8] - Login & Logout](https://youtu.be/rt6VSxXL4_w)
 - [ ] [MEAN Stack Front To Back [Part 9] - Protected Requests & Auth Guard](https://youtu.be/OILrJmjkId4)
