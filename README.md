@@ -14,6 +14,12 @@ Clone into your directory, type
 then type
 `node app.js`
 
+Open a second tab or window in Terminal, visit the `angular-src` directory and type
+
+`ng serve`
+
+which loads the web UI.
+
 Check status in MongoDB
 
 ```terminal
