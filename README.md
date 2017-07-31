@@ -9,6 +9,8 @@ Side project to better understand authentication with Node.js
 
 ## Installation
 
+To run this app, you should have a MongoDB database up and running on port 27017.
+
 Clone into your directory, type
 `npm install`
 then type
@@ -19,6 +21,8 @@ Open a second tab or window in Terminal, visit the `angular-src` directory and t
 `ng serve`
 
 which loads the web UI.
+
+To debug app using Safari 10.1.2, visit Safari Preferences, Advanced, and check _Show Develop menu in menu bar_. Then hold Option-Command-I to open the Web Inspector.
 
 Check status in MongoDB
 
