@@ -42,6 +42,7 @@ users
 { "_id" : ObjectId("5970c7758965d9674f8c4b3e"), "name" : "Mister Browski", "email" : "Browski@g.net", "username" : "misterBee", "password" : "$2a$10$qeiaDLdA1IZNdMrkTJkxx.cf6daYAaVtM5EYaQbtB9FdYiZpPdoCq", "__v" : 0 }
 ```
 
+You can check out the app running live [here](https://young-crag-66696.herokuapp.com)
 
 ## API Reference
 
@@ -64,7 +65,7 @@ Following Traversy Media for this project
 - [x] [MEAN Stack Front To Back [Part 6] - Register Component, Validation & Flash Messages](https://youtu.be/bxZAPoeMr7U)
 - [x] [MEAN Stack Front To Back [Part 7] - Auth Service & User Registration](https://youtu.be/dFftMN32jyQ)
 - [x] [MEAN Stack Front To Back [Part 8] - Login & Logout](https://youtu.be/rt6VSxXL4_w)
-- [ ] [MEAN Stack Front To Back [Part 9] - Protected Requests & Auth Guard](https://youtu.be/OILrJmjkId4)
+- [x] [MEAN Stack Front To Back [Part 9] - Protected Requests & Auth Guard](https://youtu.be/OILrJmjkId4)
 - [ ] [MEAN Stack Front To Back [Part 10] - App Deployment to Heroku](https://youtu.be/cBfcbb07Tqk)
 
 ## Contributors
