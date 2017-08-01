@@ -66,7 +66,7 @@ Following Traversy Media for this project
 - [x] [MEAN Stack Front To Back [Part 7] - Auth Service & User Registration](https://youtu.be/dFftMN32jyQ)
 - [x] [MEAN Stack Front To Back [Part 8] - Login & Logout](https://youtu.be/rt6VSxXL4_w)
 - [x] [MEAN Stack Front To Back [Part 9] - Protected Requests & Auth Guard](https://youtu.be/OILrJmjkId4)
-- [ ] [MEAN Stack Front To Back [Part 10] - App Deployment to Heroku](https://youtu.be/cBfcbb07Tqk)
+- [x] [MEAN Stack Front To Back [Part 10] - App Deployment to Heroku](https://youtu.be/cBfcbb07Tqk)
 
 ## Contributors
 
